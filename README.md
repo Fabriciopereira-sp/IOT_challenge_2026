@@ -61,6 +61,6 @@ Basta abrir o arquivo `index.html` em qualquer navegador moderno. A conexão com
 
 ## 👥 Integrantes
 *   **FABRÍCIO HENRIQUE PEREIRA** - RM563237
-*   **PEDRO HENRIQUE DE OLIVEIRA ** - RM562312
+*   **PEDRO HENRIQUE DE OLIVEIRA** - RM562312
 *   **LEONARDO JOSÉ PEREIRA** - RM563065
 *   **MIGUEL HENRIQUE OLIVEIRA DIAS** - RM565492
