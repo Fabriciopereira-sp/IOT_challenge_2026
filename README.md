@@ -54,8 +54,10 @@ Basta abrir o arquivo `index.html` em qualquer navegador moderno. A conexão com
 ---
 
 ## 🔗 Links do Projeto
-*   **Simulação Wokwi:** [INSIRA O LINK DO SEU WOKWI AQUI]
-*   **Vídeo de Demonstração:** [INSIRA O LINK DO YOUTUBE AQUI]
+*   **Simulação Wokwi:** [https://wokwi.com/projects/462585423032013825]
+*   **Vídeo de Demonstração:** [https://youtu.be/RmeN-215nk4]
+*   **Github:** [https://youtu.be/RmeN-215nk4]
+
 
 ---
 
