@@ -10,6 +10,14 @@ O objetivo principal é auxiliar na **prevenção de doenças renais** e garanti
 
 ---
 
+## 🔗 Continuação do Projeto — Sprint 3 e 4 (IA)
+
+Este repositório contempla a Sprint 1 e 2 (hardware e dashboard). A partir da Sprint 3, o componente de Inteligência Artificial foi desenvolvido em um repositório separado:
+
+➡️ **[Challenge_IOT_segundo_semestre](https://github.com/Fabriciopereira-sp/Challenge_IOT_segundo_semestre)**
+
+---
+
 ## 🚀 Funcionalidades
 *   **Monitoramento de Nível:** Medição em tempo real da quantidade de água via sensor ultrassônico.
 *   **Controle Ambiental:** Leitura de temperatura e umidade para garantir o bem-estar térmico do animal.
@@ -57,7 +65,6 @@ Basta abrir o arquivo `index.html` em qualquer navegador moderno. A conexão com
 *   **Simulação Wokwi:** [https://wokwi.com/projects/462585423032013825]
 *   **Vídeo de Demonstração:** [https://youtu.be/RmeN-215nk4]
 *   **Github:** [https://youtu.be/RmeN-215nk4]
-
 
 ---
 
